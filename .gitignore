@@ -10,3 +10,5 @@
 /.idea/libraries
 /out
 answer-ontology-construction.iml
+/.idea/
+/data/
